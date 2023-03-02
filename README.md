@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a Frontend Developer
+I'm a Frontend Developer 💻 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <!--
 **AlexNuzhdov/AlexNuzhdov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
