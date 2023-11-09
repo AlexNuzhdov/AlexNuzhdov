@@ -1,4 +1,4 @@
-### Hi there, I'm Olexander👋
+### Hi there, I'm Alexander👋
 
 I'm a Frontend Developer 💻 
 
